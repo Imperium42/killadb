@@ -1,5 +1,5 @@
 # killadb (Windows)
-Kill ADB - a lazy man's hotfix for Steamworks.NET to run after closing Unity so your game will close.
+Kill adb - a lazy man's hotfix for Steamworks.NET to run after closing Unity so your game will close.
 
 1. Copy+paste this to text file 
 2. Save as `killadb.bat` 
