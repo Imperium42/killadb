@@ -13,8 +13,8 @@ Taskkill /IM adb.exe /F
 exit
 ```
 
-## Vote for fix
+### Vote for fix
 VOTE FOR THIS ISSUE > https://issuetracker.unity3d.com/issues/adb-dot-exe-forward-is-executed-despite-build-platform-set-to-standandalone-windows
 
-## License
+### License
 MIT, of course O__o
