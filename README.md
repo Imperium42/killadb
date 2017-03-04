@@ -3,6 +3,7 @@ Kill ADB - Hotfix for Steamworks.NET to run after closing Unity so your game wil
 
 Copy+paste this to text file >> save as `killadb.bat` >> Run it when you close Unity:
 
+# Code
 ```
 @ECHO OFF
 REM by Imperium42 Game Studio
@@ -12,6 +13,8 @@ Taskkill /IM adb.exe /F
 exit
 ```
 
+# Vote for fix
 VOTE FOR THIS ISSUE > https://issuetracker.unity3d.com/issues/adb-dot-exe-forward-is-executed-despite-build-platform-set-to-standandalone-windows
 
-MIT License, of course O__o
+# License
+MIT, of course O__o
