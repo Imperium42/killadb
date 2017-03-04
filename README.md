@@ -11,3 +11,7 @@ ECHO Killing adb..
 Taskkill /IM adb.exe /F
 exit
 ```
+
+VOTE FOR THIS ISSUE > https://issuetracker.unity3d.com/issues/adb-dot-exe-forward-is-executed-despite-build-platform-set-to-standandalone-windows
+
+MIT License, of course O__o
