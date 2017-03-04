@@ -1,4 +1,4 @@
-# killadb
+# killadb (Windows)
 Kill ADB - Hotfix for Steamworks.NET to run after closing Unity so your game will close.
 
 1. Copy+paste this to text file 
